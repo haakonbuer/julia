@@ -30,3 +30,9 @@ Pkg.add("DataStructures")
 using Compat
 using DataStructures
 using Convex
+
+
+print("Hello World")
+
+# here are some comments in the code, writing comments is very similar to how we
+# would do it in R or python!
